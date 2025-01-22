@@ -4,7 +4,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=idimetrix/idimetrix&type=Date)](https://star-history.com/#idimetrix/idimetrix&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=WLMEY/Tabib,WLMEY/furniflex_project_react&type=Date)](https://star-history.com/#WLMEY/Tabib&WLMEY/furniflex_project_react&Date)
 <!--
 **WLMEY/WLMEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
